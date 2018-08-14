@@ -48,6 +48,7 @@ InCuca | https://incuca.net/ | Vue, Angular 1.x, Node/Loopack, Wordpress | Flori
 Itexto | http://www.itexto.com.br | Node, Java, Grails, PHP, Wordpress, mobile, .net | Belo Horizonte
 iTFLEX Tecnologia Ltda | https://www.itflex.com.br/ | Vue, Python, MongoDB, Linux | Joinville/SC
 INTI | https://www.byinti.com/ | Vue, Vuex, Vue-Router, SPA, Quasar-Framework, WebPack, Yii2 | São Paulo/SP
+Invasão Nerd | https://invasaonerd.com.br/ | Vue, Vuex, NodeJS, ExpressJS, MongoDB, DigitalOcean, SSR, SEO | Rio de Janeiro / RJ
 Jardim Digital | https://jardimdigital.com.br | Node, AWS, FeatherJS, PWA | Rio de Janeiro / RJ
 Just Digital | http://www.justdigital.com.br | Node, PHP | São Paulo/SP
 Keycar | http://www.keycar.com.br/ | Vue, VueRouter, Laravel, Node, AWS, Java, Kotlin, Swift, Python, PHP, Docker, MongoDB | Santos/SP
@@ -128,6 +129,7 @@ Salic | http://salic.cultura.gov.br | Vue.2, PHP, Zend Framework
 Treinar Front-End | https://www.treinarfrontend.com | Vue, Laravel
 VagasCG | https://vagascg.com.br/ | Vue, Vuex, NodeJS, ExpressJS, MongoDB, DigitalOcean, Google Cloud Plataform
 Viesualizen | https://github.com/danilowoz/Visualizen
+Vigia do Preço | https://vigiadepreco.com.br/ | Vue, Vuex, NodeJS, ExpressJS, MongoDB, DigitalOcean, SSR, SEO | Rio de Janeiro / RJ
 Voto Legal | https://votolegal.com.br/ | Vue
 /dev/All | http://www.devall.com.br | Grails, Spring, Apache Camel, Solr
 
